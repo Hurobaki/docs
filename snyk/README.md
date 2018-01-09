@@ -2,7 +2,7 @@
 
 ## Getting started
 
-You first, must have a Snyk account to use it. So let's create one [Snyk] (https://snyk.io/)
+You first, must have a Snyk account to use it. So let's create one [Snyk](https://snyk.io/)
 
 ## Integrate to CI pipeline
 
