@@ -5,6 +5,7 @@ Keep documentation about elementary OS.
 # Subjects
 
 -	Installing tweaks
+-	Docker installation (require tweaks installed)
 
 
 ## Authors
