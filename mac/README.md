@@ -7,6 +7,8 @@ All the configuration that I used to setup my developpement environnement on Mac
 You can follow this great tutorial [Mac Dev Setup](https://github.com/Hurobaki/mac-dev-setup)
 
 * iTerm2
+* Homebrew
+* Webstorm
 
 
 ## Authors
